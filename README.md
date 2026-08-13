@@ -8,9 +8,13 @@ The project includes a custom robot description, visualization in RViz, and a Ga
 
 ### Gazebo Simulation
 
+![Gazebo Simulation](images/gazebo-simulation.png)
+
 
 
 ### RViz Visualization
+
+![RViz Visualization](images/rviz-robot.png)
 
 
 
